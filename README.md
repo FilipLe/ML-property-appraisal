@@ -4,7 +4,7 @@
 We built Machine Learning models such as K-Nearest Neighbors and Decision Trees Classifier Models to determine an approximate predicted valuation of a property.‍
 
 ## Prerequisites
-Check [external-libraries](google.com)
+Check [external-libraries](https://github.com/FilipLe/ML-property-appraisal/tree/main/external-libraries)
 
 ## Procedure 
 1. Loading Dataset
