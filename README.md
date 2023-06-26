@@ -15,7 +15,7 @@ Check [external-libraries](https://github.com/FilipLe/ML-property-appraisal/tree
 6. Cross Validating KNN & Decision Tree
 
 ## Publication
-Check [publication](google.com)
+Check [publication](https://github.com/FilipLe/ML-property-appraisal/tree/main/publication)
 
 ## Source Code 
 Check [src](google.com)
