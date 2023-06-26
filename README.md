@@ -1,7 +1,7 @@
 # ML-property-appraisal
 
 ## Description
-blah bnlah
+We built Machine Learning models such as K-Nearest Neighbors and Decision Trees Classifier Models to determine an approximate predicted valuation of a property.‍
 
 ## Stay in touch
 Nguyen Le
