@@ -10,7 +10,7 @@
 ```
 https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
 ```
-## Splitting the Data
+## Data Splitting
 
 blha blah
 
