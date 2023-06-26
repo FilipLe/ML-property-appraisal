@@ -5,6 +5,10 @@
  ‘Melbourne Housing Snapshot’ dataset that can be found on Kaggle. 
  <br><br>The dataset consists of metrics such as number of rooms, land size, type of housing, and others for each suburb in Melbourne.
 
+```
+To view full dataset, click on the CSV file above (melb_data.csv).
+```
+
 ## Source
 
 ```
