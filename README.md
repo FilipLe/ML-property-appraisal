@@ -21,7 +21,7 @@ Check [publication](google.com)
 Check [src](google.com)
 
 ## Dataset
-Check [dataset](google.com)
+Check [dataset](https://github.com/FilipLe/ML-property-appraisal/tree/main/dataset)
 
 ## Stay in touch
 Nguyen Le
