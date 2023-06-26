@@ -1,9 +1,8 @@
-Dataset
-## Description
+## Dataset Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+ ‘Melbourne Housing Snapshot’ dataset that can be found on Kaggle. The dataset consists of metrics such as number of rooms, land size, type of housing, and others for each suburb in Melbourne.
 
-## Installation
+## Source
 
 ```bash
 $ npm install
