@@ -18,7 +18,7 @@ Check [external-libraries](https://github.com/FilipLe/ML-property-appraisal/tree
 Check [publication](https://github.com/FilipLe/ML-property-appraisal/tree/main/publication)
 
 ## Source Code 
-Check [src](google.com)
+Check [src](https://github.com/FilipLe/ML-property-appraisal/tree/main/src)
 
 ## Dataset
 Check [dataset](https://github.com/FilipLe/ML-property-appraisal/tree/main/dataset)
