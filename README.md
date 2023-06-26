@@ -7,7 +7,6 @@ We built Machine Learning models such as K-Nearest Neighbors and Decision Trees 
 Nguyen Le
 - [LinkedIn](http://linkedin.com/in/nguyenle04/)
 - [Website](http://filiple.github.io)
-- [GitHub](http://github.com/FilipLe)
 
 Ashtosh Bhandari
 - [LinkedIn](https://www.linkedin.com/in/ashtosh-bhandari-8056b1246/)
