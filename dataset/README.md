@@ -14,6 +14,10 @@ https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
 
 blha blah
 
+## Data Validation 
+
+blah blah
+
 ## Running the app
 
 ```bash
