@@ -10,6 +10,7 @@ Nguyen Le
 - [GitHub](http://github.com/FilipLe)
 
 Ashtosh Bhandari
+- [LinkedIn](https://www.linkedin.com/in/ashtosh-bhandari-8056b1246/)
 
 Zachary Pao
 - [LinkedIn](https://www.linkedin.com/in/zachary-pao-506788161/)
