@@ -10,10 +10,26 @@
 ```
 https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
 ```
+
+## Loading Dataset
+
+blha blah
+
+```
+Code: ...
+```
+
 ## Data Splitting
 
 blha blah
 
+```
+Code: ...
+```
+
 ## Data Validation 
 
 blah blah
+```
+Code: ...
+```
