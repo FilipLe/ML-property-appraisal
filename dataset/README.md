@@ -8,7 +8,7 @@
 ## Source
 
 ```bash
-$ npm install
+**https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot**
 ```
 
 ## Running the app
