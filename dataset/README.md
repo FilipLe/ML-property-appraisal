@@ -16,10 +16,10 @@ https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
 
 ## Loading Dataset
 
-blha blah
 
-```
-Code: ...
+```python
+import pandas as pd
+df = pd.read_csv('melb_data.csv')
 ```
 
 ## Data Splitting
