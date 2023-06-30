@@ -2,8 +2,8 @@
 
 ## Scikit-learn
 Installation
-```cli
-pip3
+```
+Code:...
 ```
 
 Running
