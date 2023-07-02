@@ -3,6 +3,14 @@
 ## scikit-learn
 ### Description
 blah
+
+### Requirements
+- Python (>= 3.8)
+- NumPy (>= 1.17.3)
+- SciPy (>= 1.5.0)
+- joblib (>= 1.1.1)
+- threadpoolctl (>= 2.0.0)
+
 ### Installation
 Run the following command in your Terminal:
 ```
