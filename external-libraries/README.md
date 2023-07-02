@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="150">
 </h1><br>
 
-
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
 https://numfocus.org)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/numpy.svg?label=PyPI%20downloads)](
@@ -16,18 +15,19 @@ https://stackoverflow.com/questions/tagged/numpy)
 https://doi.org/10.1038/s41586-020-2649-2)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://api.securityscorecards.dev/projects/github.com/numpy/numpy)
 
-### Description
+#### Description
 NumPy adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
 For more, check out NumPy's documentation: [https://numpy.org/doc](https://numpy.org/doc)
 
-### Installation:
+#### Installation:
 Run the following command in your Terminal:
 ```
 pip install numpy
 (or)
 pip3 install numpy
 ```
+
 
 ## pandas
 <h1 align="center">
@@ -41,12 +41,12 @@ pip3 install numpy
 [![Coverage](https://codecov.io/github/pandas-dev/pandas/coverage.svg?branch=main)](https://codecov.io/gh/pandas-dev/pandas)
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://numfocus.org)
 
-### Description
+#### Description
 pandas offers data manipulation and analysis abilities. In particular, it offers data structures and operations for manipulating numerical tables and time series.
 
 For more, check out pandas documentation: [https://pandas.pydata.org/pandas-docs/stable](https://pandas.pydata.org/pandas-docs/stable)
 
-### Installation:
+#### Installation:
 Run the following command in your Terminal:
 ```
 pip install pandas
@@ -72,18 +72,19 @@ pip3 install pandas
 [![AppVeyor status](https://ci.appveyor.com/api/projects/status/github/matplotlib/matplotlib?branch=main&svg=true)](https://ci.appveyor.com/project/matplotlib/matplotlib)
 [![Codecov status](https://codecov.io/github/matplotlib/matplotlib/badge.svg?branch=main&service=github)](https://app.codecov.io/gh/matplotlib/matplotlib)
 
-### Description
+#### Description
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 For more, check out Matplotlib's documentation: [https://matplotlib.org/stable/index.html](https://matplotlib.org/stable/index.html)
 
-### Installation:
+#### Installation:
 Run the following command in your Terminal:
 ```
 pip install matplotlib
 (or)
 pip3 install matplotlib
 ```
+
 
 ## seaborn
 <h1 align="center"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" width="150"></h1><br>
@@ -94,11 +95,11 @@ pip3 install matplotlib
 [![Tests](https://github.com/mwaskom/seaborn/workflows/CI/badge.svg)](https://github.com/mwaskom/seaborn/actions)
 [![Code Coverage](https://codecov.io/gh/mwaskom/seaborn/branch/master/graph/badge.svg)](https://codecov.io/gh/mwaskom/seaborn)
 
-### Description
+#### Description
 Seaborn is a statistical data visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
 For more, check out seaborn's documentation: [https://seaborn.pydata.org](https://seaborn.pydata.org)
-### Installation:
+#### Installation:
 Run the following command in your Terminal:
 ```
 pip install seaborn
@@ -106,24 +107,25 @@ pip install seaborn
 pip3 install seaborn
 ```
 
+
 ## scikit-learn
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="150">
 </h1>
 
-### Description
+#### Description
 scikit-learn is a machine learning library, which offers various classification, regression and clustering algorithms.
 
 For more, check out scikit-learn's documentation: [https://scikit-learn.org/0.21/documentation.html](https://scikit-learn.org/0.21/documentation.html)
 
-### Requirements
+#### Requirements
 - Python (>= 3.8)
 - NumPy (>= 1.17.3)
 - SciPy (>= 1.5.0)
 - joblib (>= 1.1.1)
 - threadpoolctl (>= 2.0.0)
 
-### Installation
+#### Installation
 Run the following command in your Terminal:
 ```
 pip install scikit-learn
