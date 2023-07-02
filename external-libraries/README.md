@@ -3,7 +3,7 @@
 ## scikit-learn
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="150">
-</h1><br>
+</h1>
 
 ### Description
 scikit-learn is a machine learning library, which offers various classification, regression and clustering algorithms.
