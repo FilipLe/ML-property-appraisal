@@ -1,30 +1,5 @@
 # Libraries
 
-## scikit-learn
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="150">
-</h1>
-
-### Description
-scikit-learn is a machine learning library, which offers various classification, regression and clustering algorithms.
-
-For more, check out scikit-learn's documentation: [https://scikit-learn.org/0.21/documentation.html](https://scikit-learn.org/0.21/documentation.html)
-
-### Requirements
-- Python (>= 3.8)
-- NumPy (>= 1.17.3)
-- SciPy (>= 1.5.0)
-- joblib (>= 1.1.1)
-- threadpoolctl (>= 2.0.0)
-
-### Installation
-Run the following command in your Terminal:
-```
-pip install scikit-learn
-(or)
-pip3 install scikit-learn
-```
-
 ## NumPy
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="150">
@@ -129,4 +104,29 @@ Run the following command in your Terminal:
 pip install seaborn
 (or)
 pip3 install seaborn
+```
+
+## scikit-learn
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="150">
+</h1>
+
+### Description
+scikit-learn is a machine learning library, which offers various classification, regression and clustering algorithms.
+
+For more, check out scikit-learn's documentation: [https://scikit-learn.org/0.21/documentation.html](https://scikit-learn.org/0.21/documentation.html)
+
+### Requirements
+- Python (>= 3.8)
+- NumPy (>= 1.17.3)
+- SciPy (>= 1.5.0)
+- joblib (>= 1.1.1)
+- threadpoolctl (>= 2.0.0)
+
+### Installation
+Run the following command in your Terminal:
+```
+pip install scikit-learn
+(or)
+pip3 install scikit-learn
 ```
