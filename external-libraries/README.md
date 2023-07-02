@@ -3,7 +3,7 @@
 ## scikit-learn
 ### Installation
 Run the following command in your Terminal:
-```python
+```terminal
 pip install scikit-learn
 (or)
 pip3 install scikit-learn
