@@ -1,34 +1,47 @@
 # Libraries
 
-## Scikit-learn
-Installation
-```
-Code:...
+## scikit-learn
+### Installation
+Run the following command in your Terminal:
+```python
+pip install scikit-learn
+(or)
+pip3 install scikit-learn
 ```
 
-Running
-```
-Code:...
+## NumPy
+### Installation:
+Run the following command in your Terminal:
+```python
+pip install numpy
+(or)
+pip3 install numpy
 ```
 
 ## pandas
-Installation
-```
-Code:...
+### Installation:
+Run the following command in your Terminal:
+```python
+pip install pandas
+(or)
+pip3 install pandas
 ```
 
-Running
-```
-Code:...
-```
 
 ## matplotlib
-Installation
-```
-Code:...
+### Installation:
+Run the following command in your Terminal:
+```python
+pip install matplotlib
+(or)
+pip3 install matplotlib
 ```
 
-Running
-```
-Code:...
+## seaborn
+### Installation:
+Run the following command in your Terminal:
+```python
+pip install seaborn
+(or)
+pip3 install seaborn
 ```
