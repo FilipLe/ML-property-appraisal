@@ -26,7 +26,6 @@ Check [../dataset](https://github.com/FilipLe/ML-property-appraisal/tree/main/da
 ## Stay in touch
 Nguyen Le
 - [LinkedIn](http://linkedin.com/in/nguyenle04/)
-- [Website](http://filiple.github.io)
 
 Ashtosh Bhandari
 - [LinkedIn](https://www.linkedin.com/in/ashtosh-bhandari-8056b1246/)
